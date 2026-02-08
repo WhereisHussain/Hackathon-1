@@ -3,6 +3,7 @@
 Welcome to the **Physical AI & Humanoid Robotics** project. This is an AI-native technical textbook and learning platform built for the future of work, where humans and robots collaborate.
 
 ## 🚀 Live Demo
+![Deploy to GitHub Pages](https://github.com/WhereisHussain/Hackathon-1/actions/workflows/deploy.yml/badge.svg)
 - **Textbook**: [https://WhereisHussain.github.io/Hackathon-1/](https://WhereisHussain.github.io/Hackathon-1/)
 - **Repository**: [https://github.com/WhereisHussain/Hackathon-1](https://github.com/WhereisHussain/Hackathon-1)
 
