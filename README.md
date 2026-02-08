@@ -2,13 +2,13 @@
 
 Welcome to the **Physical AI & Humanoid Robotics** project. This is an AI-native technical textbook and learning platform built for the future of work, where humans and robots collaborate.
 
-## 🚀 Live Demo
+## Live Demo
 - **Textbook**: [https://WhereisHussain.github.io/Hackathon-1/](https://WhereisHussain.github.io/Hackathon-1/)
 - **Repository**: [https://github.com/WhereisHussain/Hackathon-1](https://github.com/WhereisHussain/Hackathon-1)
 
 ---
 
-## ✨ Features
+## Features
 
 ### 1. AI-Native Content
 - 5 comprehensive chapters covering Humanoid Architecture, Kinematics, Sensing, Actuation, and AI Software Agents.
@@ -43,7 +43,7 @@ Welcome to the **Physical AI & Humanoid Robotics** project. This is an AI-native
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Hackathon-1/
@@ -56,7 +56,7 @@ Hackathon-1/
 
 ---
 
-## 🛠️ Local Development
+## Local Development
 
 ### Prerequisites
 - Node.js (v20+)
@@ -77,7 +77,11 @@ Hackathon-1/
 ---
 
 ## 📜 Acknowledgments
-Developed by **Antigravity** (Google DeepMind) for the **Panaversity AI Startups Hackathon**. Inspired by the vision of Zia Khan, Rehan Allahwala, Junaid Mansoor, and Wania Mansoor.
+Developed by Muhammad Hussain, inspired by Sir Jawwad Ali. 
+
+GIAIC Roll No. 102210
+
+LinkedIn: www.linkedin.com/in/where-is-hussain
 
 ---
-*Created with 🦾 and 🧠 at Panaversity.*
+*Created by Muhammad Hussain from GIAIC.*
